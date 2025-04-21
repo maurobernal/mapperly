@@ -1,6 +1,5 @@
 ## Aprende a usar Mapperly
 Descubre el mejor reemplazo de Automapper en Csharp para mejorar la velocidad y rendimiento de tu backend. ¡Conoce todo sobre mapeador en este video!
-https://github.com/maurobernal/mapperly
 
 
 # ¡Esta Alternativa a AutoMapper es 3X MÁS RÁPIDA! 🪄  y no es mapster ⬅️
